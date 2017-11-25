@@ -1,0 +1,26 @@
+{
+  "name": "react-native-agenda",
+  "version": "0.0.1",
+  "description": "Displays list of items as an agenda with a timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontinuity/react-native-agenda.git"
+  },
+  "keywords": [
+    "react-native",
+    "agenda",
+    "calendar",
+    "ios",
+    "android"
+  ],
+  "author": "Arif Amirani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kontinuity/react-native-agenda/issues"
+  },
+  "homepage": "https://github.com/kontinuity/react-native-agenda#readme"
+}
